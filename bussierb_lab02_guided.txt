@@ -1,0 +1,2 @@
+Brigitte Bussiere
+In this lab, we edited our VIM configuration to include line numbering and colors. We made a copy of the original '.vimrc' file and renamed it with our username and lab02. The first issue that I encountered involved saving and quitting the file in step 8. I was not sure of the keyboard commands for this, but I learned I must first hit 'Esc,' then hold 'Shift' and ';' at the same time. If I am wanting to save and quit the file, I should type 'wq.' Otherwise if I just want to quit the file, I should type 'q.'
